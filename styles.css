@@ -1,0 +1,24 @@
+
+body {
+    background-color: rgb(24, 9, 5);
+}
+
+#div0 {
+    background-color: black;
+    margin: 2%;
+    padding: 3%;
+    border: 4px rgb(106, 207, 190);
+}
+
+#p1 {
+    color: turquoise;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 9px;
+    text-align: justify;
+}
+
+#titulo0 {
+    color: rgb(67, 217, 255);
+    text-decoration: underline overline turquoise;
+    text-align: center;
+}
