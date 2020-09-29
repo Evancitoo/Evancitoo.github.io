@@ -1,9 +1,14 @@
-body {
-    background-color: rgb(12, 5, 3);
+
+body, html, * {
+    background-color: rgb(16, 7, 20);
+    color: rgb(22, 13, 7);
+    margin-top: -3%;
+    padding-top: 1px;
+    padding-bottom: 1px;
 }
 
 #div0 {
-    background-color: black;
+    background-color: rgb(22, 20, 20);
     margin: 5% 5% 5% 0%;
     padding: 3%;
     border: 1px solid rgb(106, 207, 190);
@@ -15,10 +20,13 @@ body {
 }
 
 #p1 {
+    margin-top: 0.5cm;
     color: turquoise;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 89%;
     text-align: justify;
+    position: relative;
+    background-color: inherit;
 }
 
 #titulo0 {
@@ -27,4 +35,15 @@ body {
     text-align: center;
     margin-top: 6%;
     margin-bottom: -2ch;
+}
+
+#ch {
+    margin-top: 7%;
+}
+
+center > h3#idHeaderH3 {
+    position: relative;
+    margin:2%;
+    margin-bottom: 2cm;
+    color: blueviolet;
 }
